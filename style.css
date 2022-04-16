@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+body {
+    background:url('img/background_d.png');
+}
+
+.photos {
+font: Segou-ui;
+color: rgb(255, 255, 255);
+}
+
+.contacts {
+    margin-bottom: 25px;
+    list-style: none;
+    color: rgb(255, 255, 255);
+}
+
+li {
+    color: rgb(255, 255, 255);
+}
